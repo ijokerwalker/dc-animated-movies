@@ -1,4 +1,4 @@
-# dc-animated-movies
+# DC Animated Movies
 List of DC Animated movies to watch!
 - Justice League Dark (2017)
 - Batman: Hush (2019)
