@@ -1,5 +1,6 @@
-> These movies are in Random Order, not ordered with Ratings!
+
 # DC Animated Movies
+> These movies are in Random Order, not ordered with Ratings!
 List of DC Animated movies to watch!
 - Justice League Dark (2017)
 - Batman: Hush (2019)
