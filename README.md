@@ -1,3 +1,4 @@
+> These movies are in Random Order, not ordered with Ratings!
 # DC Animated Movies
 List of DC Animated movies to watch!
 - Justice League Dark (2017)
